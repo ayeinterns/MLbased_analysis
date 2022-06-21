@@ -1,0 +1,49 @@
+Learned about the Pest Analysis PEST stands for Political Economical Social Technical. Also got familiar with insilico medicine which is an artificial intelligence-driven pharma-technology company with a mission to accelerate drug discovery and development by leveraging our rapidly evolving, proprietary platform across biology, chemistry and clinical development. This Pharma.AI platform has the potential to rapidly bring novel breakthrough medicines to patients while decreasing costs and increasing probabilities of success.
+
+ML Landscape for Pharmacy
+
+There are many university-based ML labs working across the globe to study theoretical and applied aspects of machine learning in various domains. And the aim is to explore and understand artificial intelligence, including machine learning, deep learning, numerical optimization, and natural language processing and to perform research on their applicability in various domains. The top 3 university-based ML labs are Stanford University, University of Michigan and Massachusetts Institute of Technology (MIT). There are a lot of corporate ML labs like the In Data Labs, Indium Software, iTech Art. 
+
+
+           The analysis was done using manual fitting of model. The framework used for the Pharmacoepidemology based project is Linear Regression. Godelisation discovered by Kurt Godel has been used to convert for giving numbers to alphabetical variables in the data collected. Programming and coding from scratch was difficult. So used Scikit Learn as framework. Linear Regression between isolate and the factors was done. In case of neural networks or biomimetic networks or spiking neural networks, correlating input and output variable does not give the probability with the collected data. 
+
+
+ML ALGORITHMS USED IN HEALTH CARE
+AI and ML has wide usage in giving appropriate and optimised drug for better outcomes for the patient. It has various applications like the in case of disease diagnosis, personalised treatment, drug discovery and epidemic outbreak prediction. It has the potential to improve the Clinical pharmacy care by reducing the cost and improving the interventions. ML can also used for helping the pharmacy professionals for proper Medication Therapy Management and Pharmacokinetic-guided dosing and eventually decisions on dosage in real time. ML models like the linear regression can be used for clinical trials. 
+
+
+Some of the ML models used by the Pharma companies includes Regression, Classification and Clustering method. Both supervised and unsupervised learning have been used by Pharma Companies. 
+
+
+
+
+
+
+SCIKIT LEARN - FRAMEWORK
+
+
+The framework Scikit Learn is a user friendly, well-documented and robust ML library. It contains a set of useful algorithms which can be used for that can easily be implemented and tweaked for the purposes of classification and other machine learning tasks. There are inputs and outputs in Machine Learning in which the inputs are referred to features where as outputs are referred to as labels. 
+
+Classification is a type of Supervised Learning in Machine Learning in which the sample belongs to two or more classes and we want to learn from the already labelled data how to predict the class of unlabeled data. Unsupervised Learning is where data is fed to the network in unlabeled and the network must try to learn for itself what features are important. Classification is used for Spam detection, image recognition. 
+
+Clustering is another ML based framework in which data is divided into a number of groups such that the data points in same groups are more similar to other data points in the same group and also dissimilar to the data points in other groups. 
+
+Regression is another technique used for investigating the relationship between independent and a dependent variable. And it is also used for predictive modelling in machine learning. 
+
+
+
+
+Linear Regression – Model 
+
+Linear regression is the model for investigating the relationship between independent and a dependent variable. It is the most common ML based models used in supervised machine learning. Correlating the independent variable with the dependent variable and fitting them into a linear scale. It is used as the model for developing the UTI CDSS which is a predictive model. 
+ 
+
+
+
+UTI CDSS
+
+The repeated organism in the data set was Ecoli due to skewed data we have excluded the top recurring UTI causing organisms from the data set and have developed the UTI CDSS. The UTI CDSS developed for predicting the potential possible organism causing UTI for a patient coming with symptoms of UTI was based on four parameters such as the type of locality, gender and the age of the patient. 
+
+
+                                                   
+
